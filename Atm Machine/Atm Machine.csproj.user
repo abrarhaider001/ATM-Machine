@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ApproveLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ViewApprovedLoanRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ViewLoanRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucEnterCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Forms\BalanceInquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\CashWithdrawal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\EasyLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\FastCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Initial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\EnterCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\EnterPin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\LoanHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\LoanMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\MiniStatement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\ProcceedTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\RemoveUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\TakeCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Forms\TransactionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\TransactionHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\UpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ViewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

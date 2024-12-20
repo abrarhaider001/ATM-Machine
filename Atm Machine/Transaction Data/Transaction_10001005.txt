@@ -1,0 +1,7 @@
+Transaction Details:
+
+		Transaction ID: 10001005
+		User ID: 1001
+		Date: 21/11/2024 11:42:48 pm
+		Amount: 10000
+		Type: Deposit

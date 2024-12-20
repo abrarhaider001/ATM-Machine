@@ -1,0 +1,76 @@
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Atm Machine.exe
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Atm Machine.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.csproj.AssemblyReference.cache
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.AddUser.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.AdminPanel.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.BalanceInquiry.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.CashWithdrawal.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.EasyLoan.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.EnterCard.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.EnterPin.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.FastCash.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Initial.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Menu.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.MiniStatement.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.ProcceedTransaction.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Properties.Resources.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.RemoveUser.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.TransactionHistory.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.UpdateUser.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.ViewUser.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.csproj.GenerateResource.cache
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.AssemblyInfoInputs.cache
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.AssemblyInfo.cs
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.csproj.CoreCompileInputs.cache
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.csproj.CopyComplete
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\refint\Atm Machine.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.pdb
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Atm Machine.deps.json
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Atm Machine.runtimeconfig.json
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\bin\Debug\net8.0-windows\Atm Machine.pdb
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm Machine.genruntimeconfig.cache
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\ref\Atm Machine.dll
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.TransactionDetail.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.User_Forms.LoanHistory.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.User_Forms.LoanMenu.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Admin.ApproveLoan.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Admin.ViewLoanRequests.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.User_Forms.TakeCash.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.Admin.ViewApprovedLoanRequest.resources
+C:\Users\Track Computers\Desktop\Atm\Atm Machine\obj\Debug\net8.0-windows\Atm_Machine.ucEnterCard.resources

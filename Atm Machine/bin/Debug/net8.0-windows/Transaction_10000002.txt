@@ -1,0 +1,7 @@
+Transaction Details:
+
+Transaction ID: 10000002
+User ID: 1001
+Date: 21/11/2024 10:17:26 pm
+Amount: 500
+Type: Withdraw
